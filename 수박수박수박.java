@@ -8,6 +8,6 @@ public class 수박수박수박 {
         return answer *(n//2)
     else:
         return answer*(n//2)+answer[0]
-    
+
      */
 }

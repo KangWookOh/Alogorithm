@@ -4,7 +4,7 @@ public class 콜라즈추측 {
     class Solution {
         public int solution(long num) {
             int answer = 0;
-            while(num != 1){
+            while(num != 1){ 
                 if(num%2 == 0){
                     num/=2;
                 }
@@ -22,3 +22,4 @@ public class 콜라즈추측 {
         }
     }
 }
+ 
